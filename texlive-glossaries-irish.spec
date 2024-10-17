@@ -3,7 +3,7 @@ Version:	35665
 Release:	2
 Summary:	Irish language module for glossaries package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-irish
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-irish
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-irish.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-irish.doc.r%{version}.tar.xz
